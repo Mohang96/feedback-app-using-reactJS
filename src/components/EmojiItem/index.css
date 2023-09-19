@@ -1,0 +1,11 @@
+.emoji-image {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  outline: none;
+}
+
+.emoji-type {
+  color: #1e293b;
+  font-size: 20px;
+}
